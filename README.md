@@ -1,4 +1,4 @@
-#My game dev journey - 12 y/o, Arch, GDevelop   
+# My game dev journey - 12 y/o, Arch, GDevelop   
 # About Me
 
 - 12 years old
