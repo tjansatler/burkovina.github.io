@@ -14,4 +14,4 @@
 - link https://tjansatler.github.io/game/   
 - move with arow keys
 - [Goffy Flappy Bird](https://scratch.mit.edu/projects/1387324851/) — Flappy bird but goffy. Space to fly.
-- - [Pong](https://scratch.mit.edu/projects/1387311217)   
+- [Pong](https://scratch.mit.edu/projects/1387311217)   
